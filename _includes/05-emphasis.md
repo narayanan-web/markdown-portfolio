@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+My some of the favorite programming languages are **C, C#, Java**. _Self Learning_ is the key of my success.
